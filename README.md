@@ -19,3 +19,5 @@ The project can be easily deployed by hosting the files on a web server or using
 This HTML and CSS project demonstrates a strong grasp of web development principles, responsive design, and user interface considerations. It provides a functional and visually appealing website template that can be customized and used for various purposes.
 
 Feel free to clone or download this project from the GitHub repository to explore the code, customize it to your needs, or use it as a foundation for your web development projects. Your feedback and contributions are welcome to further enhance this responsive website template.
+
+## https://rashidhasan.github.io/Project_HTML_CSS_1/
