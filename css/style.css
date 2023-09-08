@@ -54,6 +54,74 @@ body {
     }
 }
 
+/* Small screens (e.g., iPhones) */
+@media screen and (max-width: 767px) {
+    .container {
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /* Adjust font sizes for small screens */
+    .special-heading {
+        font-size: 40px;
+    }
+
+    .special-heading2 {
+        font-size: 40px;
+    }
+
+    /* Adjust header styles for small screens */
+    .header .links ul {
+        right: -15px;
+        min-width: auto;
+    }
+
+    /* Adjust landing section styles for small screens */
+    .landing .intro-text {
+        width: 90%;
+        max-width: none;
+        text-align: center;
+    }
+
+    /* Adjust features styles for small screens */
+    .features .feat {
+        padding: 10px;
+    }
+
+    .features .feat h3 {
+        font-size: 24px;
+    }
+
+    .features .feat p {
+        font-size: 16px;
+    }
+
+    /* Adjust portfolio styles for small screens */
+    .portfolio .portfolio-content .card {
+        width: 100%;
+    }
+
+    .portfolio .portfolio-content .card img {
+        max-width: 100%;
+    }
+
+    /* Adjust about section styles for small screens */
+    .about .about-content .image img {
+        width: 100%;
+    }
+
+    /* Adjust contact section styles for small screens */
+    .contact .info .lable,
+    .contact .info .link {
+        font-size: 24px;
+    }
+
+    .contact .info .social {
+        font-size: 14px;
+    }
+}
+
 /* End Global Rules */
 
 /* Start Components */
