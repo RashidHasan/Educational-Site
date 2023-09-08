@@ -476,6 +476,19 @@ body {
 
 }
 
+@media(max-width: 767px) {
+    .about-content {
+        display: block;
+    }
+}
+
+@media(max-width: 1199px) {
+    .about-content {
+        display: block;
+    }
+}
+
+
 /* End About */
 
 /* Start Contact */
