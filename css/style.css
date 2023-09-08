@@ -122,6 +122,90 @@ body {
     }
 }
 
+/* Small screens (e.g., iPhones) */
+@media screen and (max-width: 767px) {
+    .landing {
+        background-color: #ffffff; 
+    }
+
+   
+    .landing .intro-text {
+        width: 90%; 
+    }
+
+    .features .feat i {
+        font-size: 30px; 
+    }
+
+    
+    .special-heading,
+    .special-heading2 {
+        font-size: 40px; 
+        color: #333333; 
+    }
+
+    .special-heading + p,
+    .special-heading2 + p {
+        font-size: 16px; 
+        color: #666666; 
+    }
+
+    .features .feat h3 {
+        font-size: 24px; 
+        color: #333333; 
+    }
+
+    .features .feat p {
+        font-size: 14px; 
+        color: #666666; 
+    }
+
+    .services .srv i {
+        font-size: 30px; 
+    }
+
+    .services .srv h3 {
+        font-size: 24px; 
+        color: #333333; 
+    }
+
+    .services .srv p {
+        font-size: 14px; /* Decrease service paragraph font size */
+        color: #666666; /* Change to your desired text color */
+    }
+
+    .portfolio .info h3 {
+        font-size: 24px; /* Decrease portfolio item heading font size */
+        color: #333333; /* Change to your desired text color */
+    }
+
+    .portfolio .info p {
+        font-size: 14px; /* Decrease portfolio item paragraph font size */
+        color: #666666; /* Change to your desired text color */
+    }
+
+    .about .text p {
+        font-size: 14px; /* Decrease about section paragraph font size */
+        color: #666666; /* Change to your desired text color */
+    }
+
+    .about .text hr {
+        width: 30%; 
+    }
+
+    .contact .lable,
+    .contact .link {
+        font-size: 20px; 
+        color: #333333; 
+    }
+
+    .contact .social a {
+        font-size: 16px; 
+    }
+}
+
+
+
 /* End Global Rules */
 
 /* Start Components */
