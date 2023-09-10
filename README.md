@@ -20,4 +20,4 @@ This HTML and CSS project demonstrates a strong grasp of web development princip
 
 Feel free to clone or download this project from the GitHub repository to explore the code, customize it to your needs, or use it as a foundation for your web development projects. Your feedback and contributions are welcome to further enhance this responsive website template.
 
-## https://rashidhasan.github.io/Project_HTML_CSS_1/
+## https://rashidhasan.github.io/Educational-Site/
